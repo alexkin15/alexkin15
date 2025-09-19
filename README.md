@@ -7,7 +7,7 @@
   />
 
   <!-- Pac-Man overlay -->
-  <picture style="position: absolute; top: 0; left: 0; width: 100%;">
+  <picture style="position: absolute; top: 25; left: 0; width: 100%;">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexkin15/alexkin15/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexkin15/alexkin15/output/pacman-contribution-graph.svg">
     <img 
