@@ -1,10 +1,5 @@
 <div align="center" style="position: relative; width: 100%;">
   <!-- Real contribution chart (GitHub renders this automatically) -->
-  <img 
-    src="https://ghchart.rshah.org/alexkin15" 
-    alt="GitHub Contribution Chart"
-    style="visibility: hidden; width: 100%;"
-  />
 
   <!-- Pac-Man overlay -->
   <picture style="position: absolute; top: 100; left: 0; width: 100%;">
