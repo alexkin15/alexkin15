@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ALEX</h1>
-<h3 align="center">A passionate Data Analyst from Hong Kong.</h3>
+<h1 >Hi 👋, I'm ALEX</h1>
+<h3 >A passionate Data Analyst from Hong Kong.</h3>
 
 - 🔭 I love **Data**
 
