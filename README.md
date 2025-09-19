@@ -1,7 +1,7 @@
 <div align="center" style="position: relative; width: 100%;">
   <!-- Real contribution chart (GitHub renders this automatically) -->
   <img 
-    src="https://ghchart.rshah.org/USERNAME" 
+    src="https://ghchart.rshah.org/alexkin15" 
     alt="GitHub Contribution Chart"
     style="visibility: hidden; width: 100%;"
   />
