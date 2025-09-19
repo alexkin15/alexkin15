@@ -1,13 +1,13 @@
 <h1 >Hi 👋, I'm ALEX</h1>
 <h3 >A passionate Data Analyst from Hong Kong.</h3>
 
-- 🔭 I love **Data**
+- :computer: I love **Data**
 
 - 🌱 I love **Nature**
 
-- 🤝 I love **Money**
+- :moneybag: I love **Money**
   
-- ⚡ I love **Crypto**
+- :key: I love **Crypto**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexkin15](https://github.com/alexkin15)
 
