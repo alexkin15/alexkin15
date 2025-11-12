@@ -9,7 +9,7 @@
   
 - :key: I love **Crypto**
 
-- My website: https://alexkin15.github.io
+- :sparkles: My website: https://alexkin15.github.io
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexkin15](https://github.com/alexkin15)
 
